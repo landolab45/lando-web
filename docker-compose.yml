@@ -1,0 +1,17 @@
+# Version
+version: '3.1'
+
+# Setup
+services:
+  # PHP
+  php:
+    image: lando45/lando-web
+    restart: always
+    ports:
+      - 8080:80
+    volumes:
+      - lando-web:/var/www/html
+
+# Volumes
+volumes:
+  lando-web:
