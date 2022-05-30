@@ -19,11 +19,11 @@
                 </a>
 
                 <ul class="nav nav-pills">
-                    <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li>
+                    <li class="nav-item"><a href="/" class="nav-link" aria-current="page">Home</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Profile</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Solution</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Product</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link active">Contact</a></li>
                 </ul>
             </div>
         </div>

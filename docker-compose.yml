@@ -10,8 +10,5 @@ services:
     ports:
       - 8080:80
     volumes:
-      - lando-web:/var/www/html
+      - /home/lando/Training/lando-web:/var/www/html
 
-# Volumes
-volumes:
-  lando-web:
